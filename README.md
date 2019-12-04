@@ -18,7 +18,6 @@ A collection of development resources, guides and trainings.
 | [Angular CLI](https://cli.angular.io/) | The Angular CLI makes it easy to create an application that already works, right out of the box. It already follows our best practices! | Tool |
 
 
-**[⬆ Back to Index](#index)**
 ### APIs
 | Name | Description | Type |
 |---|---|---|
@@ -26,22 +25,23 @@ A collection of development resources, guides and trainings.
 | [Public APIs](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | List |
 
 
-**[⬆ Back to Index](#index)**
 ### C\#
 | Name | Description | Type |
 |---|---|---|
 | [Async Antipatterns](https://markheath.net/post/async-antipatterns) | Most common async coding mistakes or antipatterns | Guide |
+| [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) | Curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings. | List |
+| [Blazorise](https://github.com/stsrki/Blazorise) | Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. | Repository |
 | [Constrain Concurrent Threads](https://markheath.net/post/constraining-concurrent-threads-csharp) | 4 examples of ways to limit the number of concurrent threads in C\# | Guide |
+| [GraphQL](https://learnmoreseekmore.blogspot.com/2019/11/graphql-api-integration-in-aspnet-core.html) | GraphQL API Integration In Asp.Net Core Application | Training |
 
 
-**[⬆ Back to Index](#index)**
 ### Environment
 | Name | Description | Type |
 |---|---|---|
 | [Cmder](https://cmder.net/) | Portable console emulator for Windows | Tool |
+| [Increase Productivity in VS 2019](https://www.syncfusion.com/blogs/post/15-tips-to-increase-your-productivity-in-visual-studio-2019.aspx) | Increase Your Productivity in Visual Studio 2019 | List |
 
 
-**[⬆ Back to Index](#index)**
 ### Git
 | Name | Description | Type |
 |---|---|---|
