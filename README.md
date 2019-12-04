@@ -4,9 +4,21 @@ A collection of development resources, guides and trainings.
 
 ## Index
 
+* [Angular](#angular)
 * [APIs](#apis)
 * [C\#](#c\#)
+* [Environment](#environment)
+* [Git](#git)
 
+
+### APIs
+| Name | Description |
+|---|---|
+| [.NET Core + Angular Dashboard](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhh5vywsT75JbQsB8eBpwm1y) | Angular training videos to create dashboard |
+| [Angular CLI](https://cli.angular.io/) | The Angular CLI makes it easy to create an application that already works, right out of the box. It already follows our best practices! |
+
+
+**[⬆ Back to Index](#index)**
 ### APIs
 | Name | Description |
 |---|---|
@@ -22,4 +34,16 @@ A collection of development resources, guides and trainings.
 | [Constrain Concurrent Threads](https://markheath.net/post/constraining-concurrent-threads-csharp) | 4 examples of ways to limit the number of concurrent threads in C\# |
 
 
+**[⬆ Back to Index](#index)**
+### Environment
+| Name | Description |
+|---|---|
+| [Cmder](https://cmder.net/) | Portable console emulator for Windows |
 
+
+**[⬆ Back to Index](#index)**
+### Git
+| Name | Description |
+|---|---|
+| [Basic Git](https://medium.com/better-programming/basic-git-github-cheat-sheet-fa020831cb35) | The Beginner's Guide to Version Control|
+| [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) | This cheat sheet summarizes commonly used Git command line instructions for quick reference.|
