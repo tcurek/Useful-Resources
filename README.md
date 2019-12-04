@@ -6,9 +6,13 @@ A collection of development resources, guides and trainings.
 
 * [Angular](#angular)
 * [APIs](#apis)
+* [Architecture](#architecture)
 * [C\#](#c\#)
 * [Environment](#environment)
 * [Git](#git)
+* [Process](#process)
+* [Regex](#regex)
+* [Web Design](#web-design)
 
 
 ### Angular
@@ -25,6 +29,13 @@ A collection of development resources, guides and trainings.
 | [Public APIs](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | List |
 
 
+### Architecture
+| Name | Description | Type |
+|---|---|---|
+| [3 Factor](https://3factor.app/) | 3factor app is an architecture pattern for modern full-stack apps.  | Guide |
+| [DDD & Co.](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) | Blog cover many DDD, CRUS CQRS. | Guide |
+
+
 ### C\#
 | Name | Description | Type |
 |---|---|---|
@@ -32,6 +43,7 @@ A collection of development resources, guides and trainings.
 | [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) | Curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings. | List |
 | [Blazorise](https://github.com/stsrki/Blazorise) | Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. | Repository |
 | [Constrain Concurrent Threads](https://markheath.net/post/constraining-concurrent-threads-csharp) | 4 examples of ways to limit the number of concurrent threads in C\# | Guide |
+| [DotNet Fiddle](https://dotnetfiddle.net/) | Run .net code in the browser | Tool |
 | [GraphQL](https://learnmoreseekmore.blogspot.com/2019/11/graphql-api-integration-in-aspnet-core.html) | GraphQL API Integration In Asp.Net Core Application | Training |
 
 
@@ -46,4 +58,25 @@ A collection of development resources, guides and trainings.
 | Name | Description | Type |
 |---|---|---|
 | [Basic Git](https://medium.com/better-programming/basic-git-github-cheat-sheet-fa020831cb35) | The Beginner's Guide to Version Control | Guide |
+| [Common .gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | List |
 | [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) | This cheat sheet summarizes commonly used Git command line instructions for quick reference. | List |
+
+
+### Process
+| Name | Description | Type |
+|---|---|---|
+| [Google's Engineering Practices](https://google.github.io/eng-practices/review/reviewer/) | How to do a code review.  | Guide |
+
+
+### Regex
+| Name | Description | Type |
+|---|---|---|
+| [Regex 101](https://regex101.com/) | Test you Regex in your browser. | Tool |
+| [Regex Cheat Sheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285) | A quick cheatsheet by examples. | Guide |
+
+
+### Web Design
+| Name | Description | Type |
+|---|---|---|
+| [Envato Elements](https://elements.envato.com/) | Envato Elements opens up a world of creative possibilities for all your design projects. Pics, videos, gifs, etc | Tool |
+| [Relearn CSS](https://every-layout.dev/) | Every Layout will teach you how to better harness the built-in algorithms that power browsers and CSS. | Guide |
