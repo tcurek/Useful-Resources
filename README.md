@@ -7,9 +7,10 @@ A collection of development resources, guides and trainings.
 * [Angular](#angular)
 * [APIs](#apis)
 * [Architecture](#architecture)
-* [C\#](#c\#)
+* [CSharp](#csharp)
 * [Environment](#environment)
 * [Git](#git)
+* [Machine Learning](#machine-learning)
 * [Process](#process)
 * [Regex](#regex)
 * [Web Design](#web-design)
@@ -36,7 +37,7 @@ A collection of development resources, guides and trainings.
 | [DDD & Co.](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) | Blog cover many DDD, CRUS CQRS. | Guide |
 
 
-### C\#
+### CSharp
 | Name | Description | Type |
 |---|---|---|
 | [Async Antipatterns](https://markheath.net/post/async-antipatterns) | Most common async coding mistakes or antipatterns | Guide |
@@ -60,6 +61,13 @@ A collection of development resources, guides and trainings.
 | [Basic Git](https://medium.com/better-programming/basic-git-github-cheat-sheet-fa020831cb35) | The Beginner's Guide to Version Control | Guide |
 | [Common .gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | List |
 | [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) | This cheat sheet summarizes commonly used Git command line instructions for quick reference. | List |
+
+
+### Machine Learning
+| Name | Description | Type |
+|---|---|---|
+| [Machine Learning Guide](http://ocdevel.com/mlg) | Teaches the high level fundamentals of machine learning and artificial intelligence. | Podcast |
+| [NLTK Book](https://www.nltk.org/book/) | Light weight book for learning NLP using NLTK as tool kit. | Book |
 
 
 ### Process
