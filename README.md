@@ -2,6 +2,12 @@
 
 A collection of development resources, guides and trainings.
 
+## To Read
+
+* [ConfigureAwait FAQ - .NET Blog](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+* [C\# Channels - Timeout and Cancellation](https://deniskyashif.com/csharp-channels-part-2/)
+
+
 ## Index
 
 * [Angular](#angular)
