@@ -6,7 +6,7 @@ A collection of development resources, guides and trainings.
 
 * [ConfigureAwait FAQ - .NET Blog](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 * [C\# Channels - Timeout and Cancellation](https://deniskyashif.com/csharp-channels-part-2/)
-
+* [C\3 Multithreading](https://codewithshadman.com/c-multithreading/) - Thread, Threadpool, task, Sync, Async Await, Parallelism 
 
 ## Index
 
@@ -55,6 +55,7 @@ Blogs
 * [Async Antipatterns](https://markheath.net/post/async-antipatterns) - Most common async coding mistakes or antipatterns 
 * [Constrain Concurrent Threads](https://markheath.net/post/constraining-concurrent-threads-csharp) - 4 examples of ways to limit the number of concurrent threads in C\# 
 * [GraphQL](https://learnmoreseekmore.blogspot.com/2019/11/graphql-api-integration-in-aspnet-core.html) - GraphQL API Integration In Asp.Net Core Application
+* [System.Threading.Channels](https://codewithshadman.com/c-multithreading/) - An Introduction to System.Threading.Channels
 
 References
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
@@ -62,6 +63,9 @@ References
 
 Tools
 * [DotNet Fiddle](https://dotnetfiddle.net/) - Run .net code in the browser 
+
+Training Videos
+* [Scott Hanselman .net videos](https://www.hanselman.com/blog/AnnouncingFreeCNETAndASPNETForBeginnersVideoCoursesAndTutorials.aspx) - Free C#, .NET, and ASP.NET for beginners video courses and tutorials
 
 ### Environment
 
