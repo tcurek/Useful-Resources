@@ -16,6 +16,7 @@ A collection of development resources, guides and trainings.
 * [CSharp](#csharp)
 * [Environment](#environment)
 * [Git](#git)
+* [Life](#life)
 * [Machine Learning](#machine-learning)
 * [Process](#process)
 * [Regex](#regex)
@@ -81,10 +82,16 @@ Blogs
 * [Basic Git](https://medium.com/better-programming/basic-git-github-cheat-sheet-fa020831cb35) - The Beginner's Guide to Version Control
 
 References
-
 * [Common .gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) - This cheat sheet summarizes commonly used Git command line instructions for quick reference. 
 
+### Life
+
+Posts
+* [Credit Building](https://www.reddit.com/r/personalfinance/wiki/credit_building)
+* [Credit Reports](https://www.reddit.com/r/personalfinance/wiki/credit_reports)
+* [Credit Scores](https://www.reddit.com/r/personalfinance/wiki/fico)
+* [Credit Cards](https://www.reddit.com/r/personalfinance/wiki/creditcards)
 
 ### Machine Learning
 
