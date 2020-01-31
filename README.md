@@ -4,7 +4,6 @@ A collection of development resources, guides and trainings.
 
 ## To Read
 
-* [ConfigureAwait FAQ - .NET Blog](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 * [C\# Channels - Timeout and Cancellation](https://deniskyashif.com/csharp-channels-part-2/)
 * [C\3 Multithreading](https://codewithshadman.com/c-multithreading/) - Thread, Threadpool, task, Sync, Async Await, Parallelism 
 
@@ -57,6 +56,8 @@ Blogs
 * [Constrain Concurrent Threads](https://markheath.net/post/constraining-concurrent-threads-csharp) - 4 examples of ways to limit the number of concurrent threads in C\# 
 * [GraphQL](https://learnmoreseekmore.blogspot.com/2019/11/graphql-api-integration-in-aspnet-core.html) - GraphQL API Integration In Asp.Net Core Application
 * [System.Threading.Channels](https://codewithshadman.com/c-multithreading/) - An Introduction to System.Threading.Channels
+* [Synchronizationcontext](http://hamidmosalla.com/2018/06/24/what-is-synchronizationcontext/) - What is synchronizationcontext
+* [ConfigureAwait FAQ - .NET Blog](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 
 References
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
