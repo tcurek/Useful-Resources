@@ -52,6 +52,7 @@ Blogs
 ### CSharp
 
 Blogs
+* [Correcting Common Async/Await Mistakes in .NET](https://youtu.be/J0mcYVxJEl0) - Correcting Common Async/Await Mistakes in .NET
 * [Async Antipatterns](https://markheath.net/post/async-antipatterns) - Most common async coding mistakes or antipatterns 
 * [Constrain Concurrent Threads](https://markheath.net/post/constraining-concurrent-threads-csharp) - 4 examples of ways to limit the number of concurrent threads in C\# 
 * [GraphQL](https://learnmoreseekmore.blogspot.com/2019/11/graphql-api-integration-in-aspnet-core.html) - GraphQL API Integration In Asp.Net Core Application
