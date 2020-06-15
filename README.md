@@ -14,6 +14,7 @@ A collection of development resources, guides and trainings.
 * [Architecture](#architecture)
 * [CSharp](#csharp)
 * [Environment](#environment)
+* [German](#german)
 * [Git](#git)
 * [Life](#life)
 * [Machine Learning](#machine-learning)
