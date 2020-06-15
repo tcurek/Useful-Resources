@@ -78,6 +78,30 @@ References
 Tools
 * [Cmder](https://cmder.net/) - Portable console emulator for Windows
 
+### German
+
+Reading Comprehension
+* [German.net](https://german.net/reading/) - Texts by level (A1-B1) you help your comprehension.
+
+Grammar
+* [German Grammar Drills](https://www.amazon.com/German-Grammar-Drills-Ed-Swick/dp/0071789456)
+* [Hammer's German Grammar and Usage](https://www.amazon.com/Hammers-German-Grammar-Martin-Durrell/dp/1444120166)
+
+Translations 
+* [Linguee](https://www.linguee.com/) - Translate whole sentences and sentences
+* [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Translate whole sentences and sentences
+* [Word Reference](https://www.wordreference.com/) - Translate words, provides more meanings
+
+Listening
+* [Coffee Break German Podcast](https://radiolingua.com/coffeebreakgerman/)
+* [NDR Documentaries](https://www.youtube.com/user/ndr)
+
+Vocab
+* [Duolingo](https://www.duolingo.com/) - Memorize cards and Quizlet sets
+
+Speaking
+* [italki](https://www.italki.com/)
+
 ### Git
 
 Blogs
