@@ -13,6 +13,7 @@ A collection of development resources, guides and trainings.
 * [APIs](#apis)
 * [Architecture](#architecture)
 * [CSharp](#csharp)
+* [Design Patterns](#design-patterns)
 * [Environment](#environment)
 * [German](#german)
 * [Git](#git)
@@ -70,6 +71,10 @@ Tools
 
 Training Videos
 * [Scott Hanselman .net videos](https://www.hanselman.com/blog/AnnouncingFreeCNETAndASPNETForBeginnersVideoCoursesAndTutorials.aspx) - Free C#, .NET, and ASP.NET for beginners video courses and tutorials
+
+### Design Patterns
+
+* [Refactoring Guru](https://refactoring.guru/design-patterns/visitor)
 
 ### Environment
 
